@@ -10,7 +10,7 @@ I'm a technology enthusiast currently transitioning from a career in law to purs
 
 ## Recent Project
 If you're interested in checking out my code, I have an amazing project that I developed during the DevSuperior course: [DsCommerce](https://github.com/camilagbrito/Projeto-DSCommerce)  
-You can find a detailed explanation of the project, including its setup instructions and usage guidelines, in the project's README file.
+You can find a detailed explanation of the project in the project's README file.
 
 ## Future Goals
 I'm excited about seeking opportunities that allow me to continue growing as a developer, honing my skills, and contributing to exciting projects. I have an insatiable thirst for knowledge and am open to exploring new technologies and different domains within the realm of software development.
