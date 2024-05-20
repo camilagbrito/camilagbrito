@@ -10,6 +10,6 @@ I'm excited about seeking opportunities that allow me to continue growing as a d
 ## Get in Touch
 If you're interested in contacting me, please feel free to reach out. I'm open to connecting and discussing any opportunities or collaborations:
 
-Email: camila.g.brito@gmail.com
+Email: camila.g.brito48@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/camila-brito-3406a1261
